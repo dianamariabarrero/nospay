@@ -113,7 +113,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-tres-mesa-de-trabajo-1-247x128.png",
+              "src": "@PROJECT_PATH@/assets/images/nos-pay-logo-cambiado-mesa-de-trabajo-1-247x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -146,22 +146,22 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/slide-6-1-1920x774.png",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Plataforma líder en recargas",
+                "title": "Plataforma líder <br>en recargas",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "Realiza tus recargas online, transacciones electrónicas <br>prepago y servicios web<br>",
+                "text": "Realiza tus recargas online, transacciones <br>electrónicas prepago y servicios web<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Más información</a> ",
                 "overlayOpacity": "0.1"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/slide-nos-pay-nmero-dos-2-1920x774.png",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/nos-pay-slide-nmero-dos-2-1920x774.png",
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
