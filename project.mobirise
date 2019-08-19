@@ -155,7 +155,7 @@
                 "title": "Plataforma líder en recargas",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "Realiza tus recargas online, transacciones electrónicas <br>prepago y servicios web",
+                "text": "Realiza tus recargas online, transacciones electrónicas <br>prepago y servicios web<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Más información</a> ",
                 "overlayOpacity": "0.1"
               },
@@ -167,10 +167,10 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Las cuentas claras",
+                "title": "<br>Las cuentas claras",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "Tenemos la herramienta web más completa, ágil y fiable para la gestión<br>de su negocio, y control de nuestros productos y servicios.",
+                "text": "Tenemos la herramienta web más completa, ágil y fiable para la gestión<br>de su negocio, y control de nuestros productos y servicios.<br><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Más información</a> ",
                 "overlayOpacity": "0.2",
                 "overlayColor": "#000000"
@@ -183,10 +183,10 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "La mayor gama de servicios",
+                "title": "<br>La mayor gama de servicios",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "Recargas nacionales, internacionales y étnicas, contenidos digitales,<br>venta y activación de tarjetas SIM, medios de pago por Internet",
+                "text": "Recargas nacionales, internacionales y étnicas, contenidos<br> digitales,venta y activación de tarjetas SIM, medios de pago por Internet<br><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Más Información</a> ",
                 "overlayOpacity": "0.3"
               }
