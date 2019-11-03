@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Nos Pay actual",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -1273,7 +1273,7 @@
           },
           "title": "&nbsp;<br>App de escritorio",
           "text": "Tenemos la aplicación de escritorio más rápida, intuitiva y atractiva del mercado, además al consumir muy pocos recursos podrá tenerla siempre abierta. Tendrá acceso directo a todos los tipos de recargas nacionales, internacionales, étnicas y al listado de recargas o movimientos realizados en el día con un solo click. Ideal para pantallas táctiles y compatible con todos los sistemas operativos que soporten la plataforma Java.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.nospay.es/indexPrivado.php\" data-toolbar=\"-mbrBtnMove\">App</a>",
           "_tags": [
             "Theme"
           ],
@@ -1333,7 +1333,7 @@
           },
           "title": "Acceso a todos los servicios",
           "text": "Tendrá acceso a los servicios más usados de nuestro Sistema Web, liberaciones, paquetería, agencia de viajes, tienda online, etc... Realizar compras comodamente o simplemente consultar el estado de sus solicitudes. También cuenta con una herramienta para hacer avisos de ingresos.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.nospay.es/indexPrivado.php\" data-toolbar=\"-mbrBtnMove\">App</a>",
           "_tags": [
             "Theme"
           ],
@@ -1393,7 +1393,7 @@
           },
           "title": "Ventana de configuración",
           "text": "<br>   Dispone de una ventana de configuración con soporte para impresoras de tickets y genéricas de texto. También podrá definir los accesos directos a sus operadores de recarga favoritos.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.nospay.es/indexPrivado.php\" data-toolbar=\"-mbrBtnMove\">App</a>",
           "_tags": [
             "Theme"
           ],
@@ -1453,7 +1453,7 @@
           },
           "title": "Servicio técnico",
           "text": "Cuenta además con un apartado de ayuda y una pequeña aplicación descargable para que nuestro servicio técnico pueda resolverle cualquier incidencia.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">App</a>",
           "_tags": [
             "Theme"
           ],
